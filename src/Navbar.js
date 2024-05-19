@@ -45,10 +45,10 @@ function Navbar() {
             <div className="monav">
               <ul>
                 <li><a href="#">HOME</a></li>
-                <li><a href="#">PRODUCT</a></li>
-                <li><a href="#">PROMO</a></li>
-                <li><a href="#">ABOUT</a></li>
-                <li><a href="#">CONTACT</a></li>
+                <li><a href="#main-slider">PRODUCT</a></li>
+                <li><a href="#main-slider2">PROMO</a></li>
+                <li><a href="#fifth-slider">ABOUT</a></li>
+                <li><a href="#mainfooter">CONTACT</a></li>
               </ul>
             </div>
           )}
